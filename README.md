@@ -1,5 +1,5 @@
 # ATEN-HDMI-matrix-control
-curl request to change Profile to ATEN HDMI switchers according to v1.0 RESTful API
+Windows curl request to change Profile to ATEN HDMI switchers according to v1.0 RESTful API
 
 works with:
 VM1600A v4.3.423 or later
