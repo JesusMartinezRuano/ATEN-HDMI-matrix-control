@@ -1,0 +1,4 @@
+curl -X PATCH "http://192.168.1.60/api/v1.0/video/vmProfiles/now" ^
+  -u administrator:password ^
+  -H "Content-Type: application/json" ^
+  -d "{\"id\":\"2\"}"
